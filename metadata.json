@@ -1,0 +1,6 @@
+{
+  "name": "Presupuesto Web",
+  "description": "Aplicación de gestión de obras, presupuestos y costos de construcción.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

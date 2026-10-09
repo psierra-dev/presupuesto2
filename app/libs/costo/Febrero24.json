@@ -1,0 +1,1098 @@
+[
+    {
+        "category": "MOVIMIENTOS DE SUELOS:",
+        "name": "EXCAV. CIMIENTOS y carga de tierra",
+        "price_labour": 12046,
+        "measurement": "m3",
+        "price_material": 0,
+        "total": 12046
+    },
+    {
+        "category": "MOVIMIENTOS DE SUELOS:",
+        "name": "EXCAVACION DE SOTANOS",
+        "price_labour": 1172,
+        "measurement": "m3",
+        "price_material": 0,
+        "total": 11721
+    },
+    {
+        "category": "MOVIMIENTOS DE SUELOS:",
+        "name": "EXCAVACION DE POZOS HASTA 8M",
+        "price_labour": 18883,
+        "measurement": "m3",
+        "price_material": 0,
+        "total": 18883
+    },
+    {
+        "category": "MOVIMIENTOS DE SUELOS:",
+        "name": "RELLENO Y COMPACTACION",
+        "price_labour": 10255,
+        "measurement": "m3",
+        "price_material": 0,
+        "total": 10255
+    },
+    {
+        "category": "MOVIMIENTOS DE SUELOS:",
+        "name": "LIMPIEZA Y NIVELACION",
+        "price_labour": 9767,
+        "measurement": "m3",
+        "price_material": 0,
+        "total": 9767
+    },
+    {
+        "category": "CIMIENTOS:",
+        "name": "Excavación y relleno de cimientos de H° simple",
+        "price_labour": 23972,
+        "measurement": "m3",
+        "price_material": 53503,
+        "total": 77476
+    },
+    {
+        "category": "CIMIENTOS:",
+        "name": "Excavación y relleno cimientos con Piedra Bola y Ripio",
+        "price_labour": 38769,
+        "measurement": "m3",
+        "price_material": 65989,
+        "total": 104759
+    },
+    {
+        "category": "AISLACIONES HIDROFUGAS:",
+        "name": "HORIZ. C/PINT. ASFALTICA",
+        "price_labour": 5474,
+        "measurement": "m2",
+        "price_material": 24987,
+        "total": 30462
+    },
+    {
+        "category": "AISLACIONES HIDROFUGAS:",
+        "name": "VERT. C/PINT. ASFALT. Y MEMB.",
+        "price_labour": 4705,
+        "measurement": "m2",
+        "price_material": 8264,
+        "total": 1297
+    },
+    {
+        "category": "AISLACIONES HIDROFUGAS:",
+        "name": "VERT. C/PINT. ASF.",
+        "price_labour": 361,
+        "measurement": "m2",
+        "price_material": 4622,
+        "total": 8233
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "SUBMURACION CON LAD.COMUN",
+        "price_labour": 475,
+        "measurement": "M3",
+        "price_material": 50399,
+        "total": 979
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "LAD. COMUN EN ELEVACION 30",
+        "price_labour": 54158,
+        "measurement": "M3",
+        "price_material": 36971,
+        "total": 9113
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "LAD. COMUNES DE 0,15 m",
+        "price_labour": 11038,
+        "measurement": "M2",
+        "price_material": 6232,
+        "total": 17272
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "DE 0,30M CON UNA CARA VISTA",
+        "price_labour": 70713,
+        "measurement": "M3",
+        "price_material": 38677,
+        "total": 10939
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "DE 0,15 CON UNA CARA VISTA",
+        "price_labour": 11932,
+        "measurement": "M2",
+        "price_material": 6697,
+        "total": 1863
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "DE LADRILLOS COMUNES DE 0,20",
+        "price_labour": 11547,
+        "measurement": "M2",
+        "price_material": 7804,
+        "total": 19352
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "LADR.P/ VISTA DE O,20 m",
+        "price_labour": 13409,
+        "measurement": "M2",
+        "price_material": 5819,
+        "total": 19228
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "TABIQUE LAD. COMUN DE 0,10m",
+        "price_labour": 6158,
+        "measurement": "m2",
+        "price_material": 3034,
+        "total": 9193
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "ENCHAPADO DE LADRILLO COM",
+        "price_labour": 5196,
+        "measurement": "m2",
+        "price_material": 3648,
+        "total": 8846
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "TABIQUE 8CM ESP LADRILLO HUECO 8,18,25",
+        "price_labour": 5196,
+        "measurement": "m2",
+        "price_material": 11531,
+        "total": 16728
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "TABIQUE 12 CM DE ESPESOR LADRILLOS HUECOS",
+        "price_labour": 728,
+        "measurement": "m2",
+        "price_material": 15312,
+        "total": 22592
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "MURO 18cm LADRILLOS HUECOS DE 18,18,33",
+        "price_labour": 7931,
+        "measurement": "m2",
+        "price_material": 18327,
+        "total": 26259
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "MURO DE ADOBE. TIERRA CRUDA. Mortero cementicio",
+        "price_labour": 651,
+        "measurement": "M2",
+        "price_material": 10052,
+        "total": 16564
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "BLOQUES HORM. 20 x 20 x 40",
+        "price_labour": 8641,
+        "measurement": "m2",
+        "price_material": 15371,
+        "total": 24013
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "PARED DOBLE LAD. COMUN. 0,15 Y LAD. HUECO 8 hueco",
+        "price_labour": 1385,
+        "measurement": "M2",
+        "price_material": 15898,
+        "total": 29749
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "MURO DE PIEDRA VISTA",
+        "price_labour": 39361,
+        "measurement": "m3",
+        "price_material": 56787,
+        "total": 96149
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "TABIQUES PLACAS YESO C/ESTRUCTURA METALICA",
+        "price_labour": 6569,
+        "measurement": "m2",
+        "price_material": 73584,
+        "total": 80154
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "TABIQUES PLACAS SUPERBOARD dos caras",
+        "price_labour": 799,
+        "measurement": "m2",
+        "price_material": 68257,
+        "total": 76248
+    },
+    {
+        "category": "MAMPOSTERIAS Y TABIQUERIAS:",
+        "name": "LADRILLO HORMIGON CELULAR RETAK",
+        "price_labour": 728,
+        "measurement": "m2",
+        "price_material": 58192,
+        "total": 65473
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "HORMIGON DE LIMPIEZA",
+        "price_labour": 3951,
+        "measurement": "M3",
+        "price_material": 44528,
+        "total": 84039
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "Hº Aº PARA BASES SIN EXCAVACION",
+        "price_labour": 49128,
+        "measurement": "m3",
+        "price_material": 163986,
+        "total": 213114
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "Hº Aº PARA COLUMNAS",
+        "price_labour": 16564,
+        "measurement": "m3",
+        "price_material": 272797,
+        "total": 438437
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "LOSAS LLENAS DE Hº Aº",
+        "price_labour": 160888,
+        "measurement": "m3",
+        "price_material": 251935,
+        "total": 412824
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "VIGAS DE Hº Aº",
+        "price_labour": 152868,
+        "measurement": "m3",
+        "price_material": 249803,
+        "total": 402673
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "PLATEAS DE Hº Aº",
+        "price_labour": 126628,
+        "measurement": "m3",
+        "price_material": 252162,
+        "total": 378791
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "ENCADENADOS DE Hº Aº",
+        "price_labour": 113366,
+        "measurement": "m3",
+        "price_material": 200163,
+        "total": 313529
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "Hº Aº P/ TANQUES, TABIQUES,",
+        "price_labour": 177229,
+        "measurement": "m3",
+        "price_material": 306928,
+        "total": 484158
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "TABIQUES H°A°",
+        "price_labour": 203913,
+        "measurement": "M3",
+        "price_material": 553838,
+        "total": 757753
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "LOSA de VIGUETINES pret, hasta 4m de luz y BOVEDILLAS",
+        "price_labour": 19032,
+        "measurement": "m2",
+        "price_material": 35843,
+        "total": 54877
+    },
+    {
+        "category": "ESTRUCTURAS:",
+        "name": "HORMIGON ELABORADO H17 300. C/bombeo",
+        "price_labour": 8139,
+        "measurement": "M3",
+        "price_material": 112187,
+        "total": 120326
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "RUSTICO INTERIOR (esp. 2 cm)",
+        "price_labour": 4187,
+        "measurement": "m2",
+        "price_material": 1785,
+        "total": 5973
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "FINO INTERIOR (esp. 0,5 cm)",
+        "price_labour": 3284,
+        "measurement": "m2",
+        "price_material": 16,
+        "total": 4886
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "RUSTICO EXTERIOR (esp. 2 cm)",
+        "price_labour": 4379,
+        "measurement": "m2",
+        "price_material": 1332,
+        "total": 5712
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "FINO EXTERIOR MANDILADO",
+        "price_labour": 3549,
+        "measurement": "m2",
+        "price_material": 448,
+        "total": 3998
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "TOMA DE JUNTAS EN MAMPOSTERIA DE PIEDRAS",
+        "price_labour": 6569,
+        "measurement": "m2",
+        "price_material": 473,
+        "total": 7044
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "TOMA DE JUNTAS LAD. VISTO",
+        "price_labour": 5696,
+        "measurement": "m2",
+        "price_material": 577,
+        "total": 6275
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "AZOTADO CEMENTICIO E 1cm",
+        "price_labour": 3284,
+        "measurement": "m2",
+        "price_material": 916,
+        "total": 4202
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "REV. FINO EXTERIOR C/MATERIAL PREP. STUKO",
+        "price_labour": 3063,
+        "measurement": "m2",
+        "price_material": 733,
+        "total": 3796
+    },
+    {
+        "category": "REVOQUES hasta 3m de altura:",
+        "name": "REV. EXT- RUSTICO BOLSEADO 3cm",
+        "price_labour": 361,
+        "measurement": "m2",
+        "price_material": 1882,
+        "total": 5493
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "AZULEJOS SOBRE MEZCLA",
+        "price_labour": 5371,
+        "measurement": "m2",
+        "price_material": 9015,
+        "total": 14386
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "PLANCHADO CEMENTICIO",
+        "price_labour": 5031,
+        "measurement": "m2",
+        "price_material": 2228,
+        "total": 726
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "DE MARMOL BLANCO NAC.",
+        "price_labour": 17608,
+        "measurement": "m2",
+        "price_material": 247394,
+        "total": 265003
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "CERAMICO ESMALTADO 33-33 Con PEGAMENTO",
+        "price_labour": 6244,
+        "measurement": "m2",
+        "price_material": 20877,
+        "total": 27122
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "PORCELANATTO . 50X50 Alto Tránsito promedio",
+        "price_labour": 6126,
+        "measurement": "m2",
+        "price_material": 23997,
+        "total": 30124
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "MADERA 3/4” PINO MACHIMBRADA",
+        "price_labour": 9026,
+        "measurement": "m2",
+        "price_material": 5527,
+        "total": 14554
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "PIEDRA LAJA EN MUROS",
+        "price_labour": 8375,
+        "measurement": "M2",
+        "price_material": 20821,
+        "total": 29196
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "REVEST. REFRACTARIO. Tej. 12x25x2",
+        "price_labour": 5474,
+        "measurement": "M2",
+        "price_material": 36598,
+        "total": 42074
+    },
+    {
+        "category": "REVESTIMIENTOS:",
+        "name": "REV. ACRILICO PROYECTADO",
+        "price_labour": 2959,
+        "measurement": "m2",
+        "price_material": 736,
+        "total": 3696
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "DE HORMIGON SIMPLE DE 10 cm",
+        "price_labour": 5741,
+        "measurement": "m2",
+        "price_material": 6891,
+        "total": 12632
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "HORMIGON SIMPLE de 7cm sobre losa",
+        "price_labour": 4971,
+        "measurement": "m2",
+        "price_material": 3989,
+        "total": 8961
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "ALIVIANADO C/TELGOPOR PERLAS x 10cm",
+        "price_labour": 583,
+        "measurement": "m2",
+        "price_material": 847,
+        "total": 14301
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "CARPETA CEMENTICIA 3CM",
+        "price_labour": 4397,
+        "measurement": "m2",
+        "price_material": 2735,
+        "total": 7133
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "HORMIGON 15cm CON MALLA SIMA",
+        "price_labour": 7102,
+        "measurement": "m2",
+        "price_material": 19526,
+        "total": 26629
+    },
+    {
+        "category": "CONTRAPISOS:",
+        "name": "HORMIGON ELABORADO H17 300KG",
+        "price_labour": 8139,
+        "measurement": "M3",
+        "price_material": 140866,
+        "total": 149006
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "A LA CAL BAJO LOSA",
+        "price_labour": 5977,
+        "measurement": "m2",
+        "price_material": 1453,
+        "total": 7432
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "YESO BAJO LOSA INCL/.AZOTADO",
+        "price_labour": 4705,
+        "measurement": "m2",
+        "price_material": 1708,
+        "total": 6414
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "YESO S/METAL DESPLEGADO C/AISLACION",
+        "price_labour": 6244,
+        "measurement": "m2",
+        "price_material": 16824,
+        "total": 23069
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "MAD. MACHIMBRADA C/AISLANTE",
+        "price_labour": 5031,
+        "measurement": "m2",
+        "price_material": 7998,
+        "total": 1303
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "PLACAS TELGOPOR S/EST./MADERA",
+        "price_labour": 5031,
+        "measurement": "m2",
+        "price_material": 4291,
+        "total": 9323
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "PLACAS YESO TIPO DURLOCK c/aisl",
+        "price_labour": 4542,
+        "measurement": "m2",
+        "price_material": 15464,
+        "total": 20007
+    },
+    {
+        "category": "CIELORRASOS:",
+        "name": "PVC CIELORRASO PANEL TABLILLA 20CM X 25M2",
+        "price_labour": 4542,
+        "measurement": "M2",
+        "price_material": 11057,
+        "total": 15601
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE CEM. ALISADO COLOREADO",
+        "price_labour": 6821,
+        "measurement": "m2",
+        "price_material": 2337,
+        "total": 9159
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE CEMENTO FRATAZADO 2cm.",
+        "price_labour": 4054,
+        "measurement": "m2",
+        "price_material": 3241,
+        "total": 7296
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE MOSAICO CALCAREO",
+        "price_labour": 5474,
+        "measurement": "m2",
+        "price_material": 4287,
+        "total": 9763
+    },
+    {
+        "category": "PISOS:",
+        "name": "MOSAICO GRANITICO EXTERIOR 45x45 semipulido 30mm",
+        "price_labour": 6569,
+        "measurement": "m2",
+        "price_material": 16639,
+        "total": 23209
+    },
+    {
+        "category": "PISOS:",
+        "name": "PULIDO A MAQUINA PISO",
+        "price_labour": 3,
+        "measurement": "GRANITICO",
+        "price_material": null,
+        "total": 3
+    },
+    {
+        "category": "PISOS:",
+        "name": "CERAMICO ESMALT. 45 X 45 ALTO TRAN.",
+        "price_labour": 651,
+        "measurement": "m2",
+        "price_material": 10042,
+        "total": 16553
+    },
+    {
+        "category": "PISOS:",
+        "name": "PORCELLANATTO PULIDO 45-45",
+        "price_labour": 6895,
+        "measurement": "m2",
+        "price_material": 19423,
+        "total": 26319
+    },
+    {
+        "category": "PISOS:",
+        "name": "PARQUET DE ALGARROBO CLARO BASTON ROTO",
+        "price_labour": 11641,
+        "measurement": "m2",
+        "price_material": 19065,
+        "total": 30706
+    },
+    {
+        "category": "PISOS:",
+        "name": "ENTABLONADO DE QUINA",
+        "price_labour": 16494,
+        "measurement": "m2",
+        "price_material": 1129,
+        "total": 27785
+    },
+    {
+        "category": "PISOS:",
+        "name": "MATERIAL PLÁSTICO FLEXIPLAST O SIMILAR",
+        "price_labour": 543,
+        "measurement": "m2",
+        "price_material": 12325,
+        "total": 17756
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE GOMA",
+        "price_labour": 5741,
+        "measurement": "m2",
+        "price_material": 22699,
+        "total": 28441
+    },
+    {
+        "category": "PISOS:",
+        "name": "FLOTANTE SIMIL MAD. DE 8mm de espesor",
+        "price_labour": 35,
+        "measurement": "m2",
+        "price_material": 15,
+        "total": 185
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE LOSETA DE Hº Aº IN SITU",
+        "price_labour": 8108,
+        "measurement": "m2",
+        "price_material": 4016,
+        "total": 12125
+    },
+    {
+        "category": "PISOS:",
+        "name": "DE GRANZA RUBIA LAVADA DE 2 cm",
+        "price_labour": 5859,
+        "measurement": "m2",
+        "price_material": 503,
+        "total": 1089
+    },
+    {
+        "category": "PISOS:",
+        "name": "UMBRALES DE MARMOL BCO NAC",
+        "price_labour": 12577,
+        "measurement": "m2",
+        "price_material": 248722,
+        "total": 261301
+    },
+    {
+        "category": "PISOS:",
+        "name": "SOLIAS DE MADERA DURA QUINA de 12 cm",
+        "price_labour": 6319,
+        "measurement": "m2",
+        "price_material": 2052,
+        "total": 8372
+    },
+    {
+        "category": "ZOCALOS:",
+        "name": "ZOCALO DE MOSAICO CALCAREO DE 0,10m DE",
+        "price_labour": 2607,
+        "measurement": "ALTO",
+        "price_material": 10391,
+        "total": 12999
+    },
+    {
+        "category": "ZOCALOS:",
+        "name": "ZOCALO GRANITICO 15 cm",
+        "price_labour": 2707,
+        "measurement": "ml",
+        "price_material": 3063,
+        "total": 5772
+    },
+    {
+        "category": "ZOCALOS:",
+        "name": "ZOCALO CERAMICO ESMAL. .15",
+        "price_labour": 2607,
+        "measurement": "m2",
+        "price_material": 2329,
+        "total": 4936
+    },
+    {
+        "category": "ZOCALOS:",
+        "name": "ZOCALO DE MADERA PINO 10 cm",
+        "price_labour": 3184,
+        "measurement": "ml",
+        "price_material": 1475,
+        "total": 1478
+    },
+    {
+        "category": "ZOCALOS:",
+        "name": "ZOCALO DE GOMA",
+        "price_labour": 2991,
+        "measurement": "ml",
+        "price_material": 3713,
+        "total": 6705
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "BALDOSA CERAMICA C/AISL.",
+        "price_labour": 6836,
+        "measurement": "m2",
+        "price_material": 27891,
+        "total": 34728
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "TEJAS FRANCESAS S/entablonado",
+        "price_labour": 10269,
+        "measurement": "m2",
+        "price_material": 24308,
+        "total": 34578
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "DE TEJAS FRANCESAS ESMALTADA COLOR SOBRE",
+        "price_labour": 10269,
+        "measurement": "m2",
+        "price_material": 25586,
+        "total": 35856
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "DE TEJAS COLONIALES S/LOSA",
+        "price_labour": 6333,
+        "measurement": "m2",
+        "price_material": 17533,
+        "total": 23867
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "DE TEJAS COLONIALES S/ entablonado",
+        "price_labour": 11275,
+        "measurement": "m2",
+        "price_material": 25224,
+        "total": 365
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "DE TEJAS FUEGUINAS S/entablonado",
+        "price_labour": 10654,
+        "measurement": "m2",
+        "price_material": 2403,
+        "total": 34685
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "CHAPA ZINC ONDULADA CON PERFIL C HASTA 3MS",
+        "price_labour": 6718,
+        "measurement": "m2",
+        "price_material": 43843,
+        "total": 50562
+    },
+    {
+        "category": "CUBIERTAS:",
+        "name": "CHAPAS ZINC ACANAL COMPLETA Con PERFIL C Y AISLACION",
+        "price_labour": 11423,
+        "measurement": "m2",
+        "price_material": 56371,
+        "total": 67796
+    },
+    {
+        "category": "CARPINTERIAS DE MADERA:",
+        "name": "PUERTA PLACA DE PINO 40 mm C/MARCO CH. DOBLADA",
+        "price_labour": 10003,
+        "measurement": "m2",
+        "price_material": 297068,
+        "total": 307072
+    },
+    {
+        "category": "CARPINTERIAS DE MADERA:",
+        "name": "PUERTA PLACA DE cedro p/lustrar 43mm C/MARCO CH.",
+        "price_labour": 10003,
+        "measurement": "m2",
+        "price_material": 109575,
+        "total": 119578
+    },
+    {
+        "category": "CARPINTERIAS DE MADERA:",
+        "name": "PUERTA TABLERO CEDRO 43 mm C/MARCO CH.",
+        "price_labour": 10003,
+        "measurement": "m2",
+        "price_material": 29752,
+        "total": 307524
+    },
+    {
+        "category": "CARPINTERIAS DE MADERA:",
+        "name": "VENTANA CEDRO C/CELOSIA Y MARCO UNIFICADO 43",
+        "price_labour": 10003,
+        "measurement": "m2",
+        "price_material": 110192,
+        "total": 120196
+    },
+    {
+        "category": "CARPINTERIAS DE MADERA:",
+        "name": "PUERTA VIDRIADA CEDRO HOJA Y MARCO MADERA",
+        "price_labour": 10003,
+        "measurement": "m2",
+        "price_material": 44777,
+        "total": 54781
+    },
+    {
+        "category": "CARPINTERIA METALICA Y ALUMINIO:",
+        "name": "VENTANA C/CELOSIA C/MARCO UNIFICADO CH.",
+        "price_labour": 57,
+        "measurement": "m2",
+        "price_material": 4875,
+        "total": 9801
+    },
+    {
+        "category": "CARPINTERIA METALICA Y ALUMINIO:",
+        "name": "PUERTA CHAPA CIEGA PESADA 0,70 X2,00",
+        "price_labour": 57,
+        "measurement": "m2",
+        "price_material": 546,
+        "total": 10854
+    },
+    {
+        "category": "CARPINTERIA METALICA Y ALUMINIO:",
+        "name": "VENTANA CORR. PESADA 1,50X1,00",
+        "price_labour": 57,
+        "measurement": "UN",
+        "price_material": 741,
+        "total": 12768
+    },
+    {
+        "category": "CARPINTERIA METALICA Y ALUMINIO:",
+        "name": "VENT. C/CELOSIA CORREDIZA. PESADA 1,50X1,00",
+        "price_labour": 57,
+        "measurement": "UN",
+        "price_material": 1404,
+        "total": 23376
+    },
+    {
+        "category": "CARPINTERIA METALICA Y ALUMINIO:",
+        "name": "PORTON CHAPA PESADA PLEG. 3hs 2,40 x 5m",
+        "price_labour": 57,
+        "measurement": "M2",
+        "price_material": 59055,
+        "total": 116559
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "Ventana dos hojas corr. AL 1000x1000. vidrio FLOAT",
+        "price_labour": 0,
+        "measurement": "UN",
+        "price_material": 0,
+        "total": 223524
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "ventana dos hojas abrir al. 1000x1000. vidrio FLOAT",
+        "price_labour": 0,
+        "measurement": "kg",
+        "price_material": 0,
+        "total": 260978
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "ventana dos hojas CORRRED aluminio",
+        "price_labour": null,
+        "measurement": "200X60",
+        "price_material": null,
+        "total": 1836
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "Ventana balcon corr. 1800x2050 con vidrio",
+        "price_labour": null,
+        "measurement": "4+4",
+        "price_material": null,
+        "total": 367976
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "PUERTA 800X2050. VIDRIADA con",
+        "price_labour": null,
+        "measurement": "float",
+        "price_material": 3,
+        "total": 293478
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "PUERTA 800X2050 SEMI VIDRIADA CON",
+        "price_labour": null,
+        "measurement": "FLOAT",
+        "price_material": 4,
+        "total": 308583
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "VENTANA CORRED.",
+        "price_labour": 4,
+        "measurement": "600X1000",
+        "price_material": null,
+        "total": 18515
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "VENTANA BATIENTE 800X. 600",
+        "price_labour": null,
+        "measurement": "FLOAT",
+        "price_material": 4,
+        "total": 120461
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "",
+        "price_labour": null,
+        "measurement": "VENTANA",
+        "price_material": 500,
+        "total": 124015
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "VENTANA de ABRIR 500X1000",
+        "price_labour": null,
+        "measurement": "VIDRIO",
+        "price_material": 4,
+        "total": 148588
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "HASTA",
+        "price_labour": 57,
+        "measurement": "2m2",
+        "price_material": null,
+        "total": 57
+    },
+    {
+        "category": "ALUMINIO LINEA MODENA:",
+        "name": "MAS DE 2 m2",
+        "price_labour": 45,
+        "measurement": "m2",
+        "price_material": 45,
+        "total": null
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "A LA CAL EN MUROS",
+        "price_labour": 1834,
+        "measurement": "m2",
+        "price_material": 365,
+        "total": 22
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "18,20 LATEX ALBA P/ INTERIOR",
+        "price_labour": 1642,
+        "measurement": "m2",
+        "price_material": 2461,
+        "total": 4104
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "LATEX LOXON P/ INTERIOR",
+        "price_labour": 1642,
+        "measurement": "m2",
+        "price_material": 236,
+        "total": 4003
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "LATEX DURALBA P/ EXTERIORES",
+        "price_labour": 1834,
+        "measurement": "m2",
+        "price_material": 2452,
+        "total": 4287
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "LATEX LOXON P/ EXTERIORES",
+        "price_labour": 1834,
+        "measurement": "m2",
+        "price_material": 2494,
+        "total": 4329
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "ESMALTE SINTETICO EN CARPINTERIA METALICA inc.",
+        "price_labour": 2249,
+        "measurement": "m2",
+        "price_material": 11291,
+        "total": 1354
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "BARNIZ SINTETICO EN CARPINTERIA DE MADERA",
+        "price_labour": 2249,
+        "measurement": "m2",
+        "price_material": 12217,
+        "total": 14467
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "18,80 LUSTRE SINTETICO A MAQUINA EN CARPINTERIA DE",
+        "price_labour": 2411,
+        "measurement": "m2",
+        "price_material": 3825,
+        "total": 6238
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "PINTURA EPOXI. (SIN PREPARACION DE SUPERFICIE)",
+        "price_labour": 361,
+        "measurement": "m2",
+        "price_material": 11588,
+        "total": 15199
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "LUSTRE PISOS DE PARQUET mano de",
+        "price_labour": 38,
+        "measurement": "OBRA",
+        "price_material": null,
+        "total": 38
+    },
+    {
+        "category": "PINTURAS:",
+        "name": "PULIDO Y PLASTIFICADO CON MATERIALES",
+        "price_labour": 38,
+        "measurement": "m2",
+        "price_material": 950,
+        "total": 475
+    },
+    {
+        "category": "VIDRIOS:",
+        "name": "VIDRIOS 3 mm",
+        "price_labour": 3077,
+        "measurement": "m2",
+        "price_material": 16044,
+        "total": 19122
+    },
+    {
+        "category": "VIDRIOS:",
+        "name": "VIDRIOS 4 mm",
+        "price_labour": 3077,
+        "measurement": "m2",
+        "price_material": 20749,
+        "total": 23827
+    },
+    {
+        "category": "VIDRIOS:",
+        "name": "CRISTAL ESPEJO 4 mm",
+        "price_labour": 3077,
+        "measurement": "M2",
+        "price_material": 31436,
+        "total": 34514
+    },
+    {
+        "category": "VIDRIOS:",
+        "name": "",
+        "price_labour": null,
+        "measurement": "",
+        "price_material": null,
+        "total": null
+    }
+]
